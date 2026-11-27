@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Aanya Sharma",
+    "age": 24,
+    "gender": "woman",
+    "city": "Chandigarh",
+    "distanceKm": 3,
+    "bio": "Weekend trekker, filter-coffee loyalist. Looking for someone to plan spontaneous road trips with.",
+    "interests": [
+      "Travel",
+      "Hiking",
+      "Photography"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": 2,
+    "name": "Rohan Mehta",
+    "age": 26,
+    "gender": "man",
+    "city": "Mohali",
+    "distanceKm": 5,
+    "bio": "Backend dev by day, amateur chef by night. My biryani has a fan club of three.",
+    "interests": [
+      "Coding",
+      "Cooking",
+      "Music"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": 3,
+    "name": "Simran Kaur",
+    "age": 23,
+    "gender": "woman",
+    "city": "Patiala",
+    "distanceKm": 62,
+    "bio": "Bharatanatyam dancer and bookworm. Will trade book recommendations for chai.",
+    "interests": [
+      "Dancing",
+      "Reading",
+      "Art"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": 4,
+    "name": "Arjun Verma",
+    "age": 27,
+    "gender": "man",
+    "city": "Ludhiana",
+    "distanceKm": 95,
+    "bio": "Cricket nerd and gym regular. Ask me about the 2011 final.",
+    "interests": [
+      "Cricket",
+      "Fitness",
+      "Movies"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": 5,
+    "name": "Kiara Gill",
+    "age": 25,
+    "gender": "woman",
+    "city": "Amritsar",
+    "distanceKm": 210,
+    "bio": "Photographer chasing golden hour across Punjab. Dog person, strictly.",
+    "interests": [
+      "Photography",
+      "Travel",
+      "Music"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": 6,
+    "name": "Dev Malhotra",
+    "age": 28,
+    "gender": "man",
+    "city": "Delhi",
+    "distanceKm": 245,
+    "bio": "Product designer who sketches in cafes. Currently learning to play the guitar badly.",
+    "interests": [
+      "Art",
+      "Music",
+      "Reading"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": 7,
+    "name": "Noor Ahmed",
+    "age": 24,
+    "gender": "nonbinary",
+    "city": "Chandigarh",
+    "distanceKm": 4,
+    "bio": "Anime marathons, indie games, and midnight Maggi. Say hi if you like Studio Ghibli.",
+    "interests": [
+      "Anime",
+      "Gaming",
+      "Movies"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": 8,
+    "name": "Tanvi Joshi",
+    "age": 22,
+    "gender": "woman",
+    "city": "Shimla",
+    "distanceKm": 118,
+    "bio": "Hill girl, yoga instructor, tea snob. I will make you try the good stuff.",
+    "interests": [
+      "Fitness",
+      "Hiking",
+      "Cooking"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": 9,
+    "name": "Harsh Kapoor",
+    "age": 29,
+    "gender": "man",
+    "city": "Jalandhar",
+    "distanceKm": 85,
+    "bio": "Startup guy who is better at quizzing than networking. Trivia night partner wanted.",
+    "interests": [
+      "Coding",
+      "Gaming",
+      "Travel"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": 10,
+    "name": "Meera Nair",
+    "age": 26,
+    "gender": "woman",
+    "city": "Mohali",
+    "distanceKm": 6,
+    "bio": "UX researcher, plant parent of eleven. Always up for a good documentary.",
+    "interests": [
+      "Movies",
+      "Art",
+      "Reading"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": 11,
+    "name": "Kabir Singh",
+    "age": 25,
+    "gender": "man",
+    "city": "Chandigarh",
+    "distanceKm": 2,
+    "bio": "Guitarist in a college band, weekend cyclist. Believes every playlist tells a story.",
+    "interests": [
+      "Music",
+      "Fitness",
+      "Photography"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": 12,
+    "name": "Ishita Bansal",
+    "age": 24,
+    "gender": "woman",
+    "city": "Delhi",
+    "distanceKm": 250,
+    "bio": "Marathon runner and baking enthusiast. Fueling long runs with cheesecake.",
+    "interests": [
+      "Fitness",
+      "Cooking",
+      "Dancing"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": 13,
+    "name": "Zoya Khan",
+    "age": 27,
+    "gender": "woman",
+    "city": "Ludhiana",
+    "distanceKm": 92,
+    "bio": "Runs a tiny bookstore cafe. Recommends novels based on your mood.",
+    "interests": [
+      "Reading",
+      "Cooking",
+      "Art"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": 14,
+    "name": "Vihaan Arora",
+    "age": 23,
+    "gender": "man",
+    "city": "Patiala",
+    "distanceKm": 60,
+    "bio": "Final-year CS student, speedcuber, loves late-night drives and old Hindi songs.",
+    "interests": [
+      "Coding",
+      "Music",
+      "Travel"
+    ],
+    "likesYou": false
+  }
+]
